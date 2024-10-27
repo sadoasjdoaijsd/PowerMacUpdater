@@ -1,4 +1,4 @@
-Read this!!!
+Read This!!!
 
 PowerMac Is Only Made For Kext Drivers (atleast for now) So Other Options are not available except "Download kexts, Download All Kexts"
 
